@@ -25,8 +25,7 @@ A simple card component with a QR code
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://carson-haskell.github.io/qr-code-component/)
 
 ### Built with
 
@@ -40,5 +39,5 @@ Implemented Figma for the first time to follow specific styles.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Add your name here](https://portfolio-website-sandy-alpha-78.vercel.app)
+- Frontend Mentor - [@carson-haskell](https://www.frontendmentor.io/profile/carson-haskell)
